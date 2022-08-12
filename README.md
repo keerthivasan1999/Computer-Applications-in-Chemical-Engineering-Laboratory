@@ -1,5 +1,5 @@
 # Course Objective:
-The use computational tools such as Spreadsheet and Scilab for solving chemical engineering problems of interest.
+To use computational tools such as Spreadsheet and Scilab for solving chemical engineering problems of interest.
 
 # LIST OF EXPERIMENTS INCLUDES
 1. Particle size distribution
